@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entertainment/Music.md",
+                "file": "Swift/General/XC Command Line Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Music"
+              "title": "XC Command Line Tools"
             }
           }
         ]
@@ -162,10 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b3eef849fe94bb3",
+  "active": "dba234a207332e9a",
   "lastOpenFiles": [
-    "Welcome.md",
     "Entertainment/Music.md",
+    "Swift/General/XC Command Line Tools.md",
+    "Swift/SwiftUI",
+    "Swift/UIKit",
+    "Swift/General",
+    "Swift",
+    "Entertainment/Book.md",
+    "Welcome.md",
     "Entertainment/Music",
     "Entertainment"
   ]
